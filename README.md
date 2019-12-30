@@ -8,5 +8,5 @@ Sample website with plenty of files for demos
 
 ## Design
 
-
+## Copyright all rights reserved
 
